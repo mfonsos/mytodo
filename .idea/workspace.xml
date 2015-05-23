@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00984430-4336-469c-963e-e97ddf0701a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/script3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mytodo.iws" />
@@ -405,7 +404,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432373721296</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="this is just a commit">
+      <created>1432373770703</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1432373770703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
